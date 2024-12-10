@@ -54,7 +54,7 @@ const App = () => {
     
     const prediction = responseData['Predicted Temperature (°C)'];
 
-    // Update the result and status
+    // Update the result and statu
     setResult(prediction);
     console.log(responseData.prediction);
     setStatus(getStatus(prediction));
