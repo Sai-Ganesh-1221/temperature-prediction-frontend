@@ -1,0 +1,16 @@
+center .withg{
+   position:fixed;
+   top: 40%;
+   left: 40%;
+   scale: 1.3;
+   
+}
+body{
+   background-color:black;
+   
+}
+.card12{
+
+   scale: 1;
+  
+}
